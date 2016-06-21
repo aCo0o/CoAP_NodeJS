@@ -1,7 +1,7 @@
 # CoAP_NodeJS
 NodeJs CoAP Server by
 
-Aleksandar Cincarevic & Granit Demiraj, programing students from Sweden. This repository is part of a school-project.
+Aleksandar Cincarevic & Granit Demiraj https://github.com/Granche, programing students from Sweden. This repository is part of a school-project.
 
 Our Servers is running from Malmoe, Sweden, and is available at
 
