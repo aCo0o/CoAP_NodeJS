@@ -1,0 +1,15 @@
+{
+  "name": "coap-server",
+  "version": "1.0.0",
+  "description": "By Aleksandar Cincarevic & Granit Demiraj, programing students from Sweden. This repository is part of a school-project",
+  "main": "coap.js",
+  "dependencies": {
+    "coap": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
