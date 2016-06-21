@@ -17,6 +17,6 @@ Dependencies so far:
 
 coap - https://www.npmjs.com/package/coap 
 
-For full documentation please visit: https://github.com/mcollina/node-coap
+For full documentation please visit: https://github.com/mcollina/node-coap (Great Work!)
 
 Information about CoAP Protocol: http://coap.technology
