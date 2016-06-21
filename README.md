@@ -11,6 +11,7 @@ Our Servers is running from Malmoe, Sweden, and is available at
 Dependencies so far:
 
 coap - https://www.npmjs.com/package/coap 
+
 For full documentation please visit: https://github.com/mcollina/node-coap
 
 Information about CoAP Protocol: http://coap.technology
