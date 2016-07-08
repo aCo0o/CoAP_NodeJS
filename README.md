@@ -4,9 +4,7 @@ NodeJs CoAP Server by
 Aleksandar Cincarevic & Granit Demiraj https://github.com/Granche, programing students from Sweden. This repository is part of a school-project.
 
 
-Just run:
-
-npm i
+===
 
 
 Dependencies so far:
