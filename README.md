@@ -5,13 +5,9 @@ Aleksandar Cincarevic & Granit Demiraj https://github.com/Granche, programing st
 
 
 Just run:
-# npm i
 
+npm i
 
-Our Servers is running from Malmoe, Sweden, and is available at
-
-- coap://coap.notgoogle.se/
-- coap://coap2.notgoogle.se/
 
 Dependencies so far:
 
